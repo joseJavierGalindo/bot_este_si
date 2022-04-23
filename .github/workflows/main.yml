@@ -1,4 +1,4 @@
-name: Manually Deploy to Hero
+name: Manually Deploy to He
 
 on: workflow_dispatch
 
